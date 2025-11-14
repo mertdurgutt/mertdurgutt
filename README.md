@@ -15,16 +15,15 @@ Kişisel web sitemden de hakkımda daha fazla bilgi alabilirsin: **mertdurgut.ne
 ## 🧰 Kullandığım Teknolojiler  
 
 ### 💻 Diller  
-- JavaScript • TypeScript • Python • C# • Java  
+- JavaScript • TypeScript • Python • C# • Java • PHP  
 
 ### 🧩 Teknolojiler & Araçlar  
 - React  
 - Next.js  
 - Node.js  
-- Express  
+- PHP 
 - .NET  
-- Git  
-- Docker  
+
 
 ---
 
